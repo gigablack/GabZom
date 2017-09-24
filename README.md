@@ -1,7 +1,6 @@
 # Gabzom
 
-[Gabzom](https://github.com/gigablack/GabZom) es un proyecto clone de platzom, 
-un idioma inventado para el curso de fundamentos de javascript de platzi.
+[Gabzom](https://github.com/gigablack/GabZom) es un modulo que traduce cada palabra con la que se llama a un idioma inventado usando las reglas del idioma que se describen a continuacion.
 
 ## Descripcion del idioma
 
